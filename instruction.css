@@ -11,12 +11,6 @@
     src: url(font/zawgyione.ttf);
 }
 
-@font-face {
-    font-family: unicode;
-    src: url(font/unicodeone.ttf);
-}
-
-
 .container {
     padding: 16px;
 }
